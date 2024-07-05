@@ -1,0 +1,14 @@
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\bin\Debug\net6.0\WebApiApoloGames.Repository.deps.json
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\bin\Debug\net6.0\WebApiApoloGames.Repository.runtimeconfig.json
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\bin\Debug\net6.0\WebApiApoloGames.Repository.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\bin\Debug\net6.0\WebApiApoloGames.Repository.pdb
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.csproj.AssemblyReference.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.AssemblyInfoInputs.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.AssemblyInfo.cs
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.csproj.CoreCompileInputs.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\refint\WebApiApoloGames.Repository.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.pdb
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\WebApiApoloGames.Repository.genruntimeconfig.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Repository\obj\Debug\net6.0\ref\WebApiApoloGames.Repository.dll

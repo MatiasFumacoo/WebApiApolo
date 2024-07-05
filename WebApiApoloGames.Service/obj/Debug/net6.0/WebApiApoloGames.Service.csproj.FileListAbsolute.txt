@@ -1,0 +1,15 @@
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\bin\Debug\net6.0\WebApiApoloGames.Service.deps.json
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\bin\Debug\net6.0\WebApiApoloGames.Service.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\bin\Debug\net6.0\WebApiApoloGames.Service.pdb
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.AssemblyInfoInputs.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.AssemblyInfo.cs
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.csproj.CoreCompileInputs.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\refint\WebApiApoloGames.Service.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.pdb
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\ref\WebApiApoloGames.Service.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.csproj.AssemblyReference.cache
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\bin\Debug\net6.0\WebApiApoloGames.Repository.dll
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\bin\Debug\net6.0\WebApiApoloGames.Repository.pdb
+D:\Proyectos\WebApiApolo\WebApiApoloGames\WebApiApoloGames.Service\obj\Debug\net6.0\WebApiApoloGames.Service.csproj.CopyComplete

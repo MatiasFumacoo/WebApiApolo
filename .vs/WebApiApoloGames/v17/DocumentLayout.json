@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames.service\\services\\daysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|solutionrelative:webapiapologames.service\\services\\daysservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|solutionrelative:webapiapologames\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|solutionrelative:webapiapologames\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames.service\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|solutionrelative:webapiapologames.service\\services\\securityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames.service\\mappingprofileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|solutionrelative:webapiapologames.service\\mappingprofileservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E53573C5-8F1C-4FD0-83D8-A16DD1736B2F}|WebApiApoloGames\\WebApiApoloGames.csproj|solutionrelative:webapiapologames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames.service\\enumsapolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|solutionrelative:webapiapologames.service\\enumsapolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|d:\\proyectos\\webapiapolo\\webapiapologames\\webapiapologames.service\\interfaces\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48345DD4-ED88-4EB5-B17E-EF7AC24EC3D1}|WebApiApoloGames.Service\\WebApiApoloGames.Service.csproj|solutionrelative:webapiapologames.service\\interfaces\\isecurityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DaysService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Services\\DaysService.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames.Service\\Services\\DaysService.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Services\\DaysService.cs",
+              "RelativeToolTip": "WebApiApoloGames.Service\\Services\\DaysService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:49:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfileServices.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\MappingProfileServices.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames.Service\\MappingProfileServices.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\MappingProfileServices.cs",
+              "RelativeToolTip": "WebApiApoloGames.Service\\MappingProfileServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T04:27:08.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnumsApolo.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\EnumsApolo.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames.Service\\EnumsApolo.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\EnumsApolo.cs",
+              "RelativeToolTip": "WebApiApoloGames.Service\\EnumsApolo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T05:20:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Services\\SecurityService.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames.Service\\Services\\SecurityService.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Services\\SecurityService.cs",
+              "RelativeToolTip": "WebApiApoloGames.Service\\Services\\SecurityService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T05:11:47.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISecurityService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Interfaces\\ISecurityService.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames.Service\\Interfaces\\ISecurityService.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames.Service\\Interfaces\\ISecurityService.cs",
+              "RelativeToolTip": "WebApiApoloGames.Service\\Interfaces\\ISecurityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-12T05:10:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiApoloGames\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\appsettings.json",
+              "RelativeToolTip": "WebApiApoloGames\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-12T02:48:09.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames\\Controllers\\SecurityController.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "WebApiApoloGames\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T01:42:15.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiApoloGames\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\WebApiApolo\\WebApiApoloGames\\WebApiApoloGames\\Program.cs",
+              "RelativeToolTip": "WebApiApoloGames\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-27T15:27:28.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
